@@ -1,0 +1,67 @@
+/* ===== RESET DASAR ===== */
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  color: #222;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* ===== KONTAINER UTAMA ===== */
+.container {
+  max-width: 680px;
+  margin: auto;
+  padding: 50px 20px;
+}
+
+/* ===== JUDUL ===== */
+h1 {
+  font-size: 28px;
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: normal;
+  margin-top: 40px;
+}
+
+/* ===== PARAGRAF ===== */
+p {
+  font-size: 17px;
+  line-height: 1.9;
+  margin-bottom: 24px;
+}
+
+/* ===== LINK ===== */
+a {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+a:hover {
+  border-bottom-color: #222;
+}
+
+/* ===== NAVIGASI ===== */
+nav {
+  margin-bottom: 50px;
+}
+
+nav a {
+  margin-right: 20px;
+  font-size: 15px;
+  border-bottom: none;
+}
+
+/* ===== LIST ===== */
+ul {
+  padding-left: 18px;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
